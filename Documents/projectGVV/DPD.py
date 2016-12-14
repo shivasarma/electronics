@@ -1,4 +1,4 @@
-mport numpy
+import numpy
 import mathplotlib
 import mpmath
 
